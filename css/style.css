@@ -33,7 +33,7 @@ li {
    font-weight: 400;
 }
 
-.rool > p {
+.rool > h3 {
    font-weight: 100;
    font-size: 24px;
    margin-bottom: 10px;
@@ -44,7 +44,11 @@ li {
  }
 
  .selector ol{
-   margin-top: 10px;
+   margin-bottom: 10px;
+ }
+
+ .selector p{
+   font-weight: 700;
  }
 
  .rool.rool3 li{
